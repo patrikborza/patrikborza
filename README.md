@@ -1,5 +1,6 @@
-Hi there 👋
-•💻 I'm currently learning new skills such as Python, SQL, Bash Scripting.
+## Hi there 👋
+
+***•💻 I'm currently learning new skills such as Python, SQL, Bash Scripting.
 •🛠️ to get my foot in the door as Data Engineer, Data DevOps Engineer.
 
 <!--

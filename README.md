@@ -1,4 +1,6 @@
 Hi there 👋
+•💻 I'm currently learning new skills such as Python, SQL, Bash Scripting.
+•🛠️ to get my foot in the door as Data Engineer, Data DevOps Engineer.
 
 <!--
 **patrikborza/patrikborza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,3 @@ I am here :v: in order to broaden my knowledge and get my foot in the door as Da
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-•💻 I'm currently learning new skills such as Python, SQL, Bash Scripting.
-
-•🛠️ to get my foot in the door as Data Engineer, Data DevOps Engineer.

@@ -19,7 +19,16 @@ Below is a _list_ of my **technical skills**:
 - SAP
 
 
+<details>
+<summary>Languages</summary>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
+<!--|     3|           |-->
+
+</details>
 
 
 

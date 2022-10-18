@@ -26,7 +26,9 @@ Below is a _list_ of my **technical skills**:
 |-----:|-----------|
 |     1| Python    |
 |     2| SQL       |
-<!--|     3|           |-->
+|     3| HTML      |
+|     4| CSS       |
+<!--|     |           |-->
 
 </details>
 

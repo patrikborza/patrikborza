@@ -9,15 +9,21 @@ Below is a _list_ of my **technical skills**:
 - Python
 - SQL (SQLite, MongoDB, SQLAlchemy)
 - Linux System (Ubuntu)
-- Bash Scripting 
+- Bash Scripting
 - Flask
+- Django
 - HTML
 - CSS
 - Jinja
 - Heroku
 - Git
 - GitHub
-- SAP
+- Oracle VM
+- Oracle EPM
+- VirtualBox
+- SAP ECC ERP system on AWS
+- Microsoft Dynamics NAV
+- Power BI
 
 
 <details>

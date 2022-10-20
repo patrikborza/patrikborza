@@ -10,6 +10,7 @@ Below is a _list_ of my **technical skills**:
 - SQL (SQLite, MongoDB, SQLAlchemy)
 - Linux System (Ubuntu)
 - Bash Scripting 
+- Flask
 - HTML
 - CSS
 - Jinja

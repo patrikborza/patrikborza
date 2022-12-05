@@ -6,16 +6,28 @@
 # Skills
 
 Below is a _list_ of my **technical skills**:
-- Python
+- Python (framworks: Flask, Django)
+- Apache Spark - PySpark, Spark Core
 - SQL (SQLite, MongoDB, SQLAlchemy)
+- AWS (EC2, S3, Athena, Lake Formation, Glue, Redshift, QuickSight)
+- Azure (Databricks, Data Lake Gen2, Data Factory (ADF))
 - Linux System (Ubuntu)
 - Bash Scripting
-- Flask
-- Django
 - HTML
 - CSS
 - Jinja
+- Docker
+- Kubernetes
 - Heroku
+- Node.js
+- Ansible
+- Jenkins
+- Maven
+- Apache Tomcat
+- Terraform
+- Prometheus
+- Grafana
+- Postman
 - Git
 - GitHub
 - Oracle VM

@@ -1,7 +1,6 @@
 # Hi there 👋
 
-- 💻 I'm currently learning new skills such as Python, SQL, Bash Scripting
-- 🛠️ I want to get my foot into the tech world as Data Engineer / Data DevOps Engineer
+- 🛠️ I want to get my foot into the tech world as Data Engineer💻
 
 # Skills
 

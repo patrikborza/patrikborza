@@ -5,34 +5,22 @@
 # Skills
 
 Below is a _list_ of my **technical skills**:
-- Python (framworks: Flask, Django)
-- Scala, R, Go, DAX
-- Hadoop, Apache Spark (PySpark), Kafka, Flink, Airflow
-- SQL (MySQL, PostgreSQL, MongoDB, SQLAlchemy, SQLite)
-- AWS (EC2, S3, Lambda Athena, Glue, EMR, DMS, RDS/DynamoDB, Redshift, QuickSight)
-- Azure (Databricks, Data Lake Gen2, Data Factory (ADF))
-- Linux - Ubuntu, Bash/Shell Scripting
-- HTML Scripting, CSS, Jinja
-- Docker
-- Kubernetes
-- Heroku
-- Node.js
-- Ansible
-- Jenkins
-- Maven
-- Apache Tomcat
-- Terraform
-- Prometheus
-- Grafana
-- Postman
-- Git
-- GitHub
-- Oracle VM
-- Oracle EPM
-- VirtualBox
-- SAP ECC ERP system on AWS
-- Microsoft Dynamics NAV
-- Power BI
+- 🖥️ Programming Languages: Python, Scala, R, Go, DAX
+- 📊 Big Data Technologies: Hadoop, Apache Spark (PySpark), Kafka, Flink, Airflow
+- 🗄️ Databases: SQL (MySQL, PostgreSQL, MongoDB, SQLAlchemy, SQLite)
+- ☁️ Cloud Services:
+  - Amazon Web Services - AWS (EC2, S3, Lambda, Athena, Glue, EMR, DMS, RDS/DynamoDB, Redshift, QuickSight)
+  - Microsoft Azure Cloud (Databricks, Data Lake Gen2, Data Factory (ADF))
+- 💻 Operating Systems & Scripting: Linux (Ubuntu), Bash/Shell Scripting
+- 🌐 Web Development: HTML Scripting, CSS, Jinja, Node.js
+- 🛠️ API Development & Testing Tools: Postman
+- 🚀 Deployment & Containerization: Heroku, Docker, Kubernetes
+- ⚙️ Infrastructure Automation: Ansible, Jenkins, Maven, Apache Tomcat, Terraform
+- 📈 Monitoring & Visualization: Prometheus, Grafana
+- 🔄 Version Control & CI/CD: Git, GitLab CI, GitHub
+- 🖥️ Virtualization & VM Management: MobaXtrem, Oracle VM, VirtualBox
+- 🗃️ ERP Systems: SAP ECC ERP system on AWS, Microsoft Dynamics NAV, Oracle EPM
+- 📊 Business Intelligence: Power BI
 
 
 <details>
